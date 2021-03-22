@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/roomsHMS/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/roomsHMS/static/js/main.a8c872b3.chunk.js",
+    "main.js.map": "/roomsHMS/static/js/main.a8c872b3.chunk.js.map",
+    "runtime-main.js": "/roomsHMS/static/js/runtime-main.d88fd978.js",
+    "runtime-main.js.map": "/roomsHMS/static/js/runtime-main.d88fd978.js.map",
+    "static/js/2.e00d3201.chunk.js": "/roomsHMS/static/js/2.e00d3201.chunk.js",
+    "static/js/2.e00d3201.chunk.js.map": "/roomsHMS/static/js/2.e00d3201.chunk.js.map",
+    "static/js/3.fcde40fe.chunk.js": "/roomsHMS/static/js/3.fcde40fe.chunk.js",
+    "static/js/3.fcde40fe.chunk.js.map": "/roomsHMS/static/js/3.fcde40fe.chunk.js.map",
+    "index.html": "/roomsHMS/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/roomsHMS/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e00d3201.chunk.js.LICENSE.txt": "/roomsHMS/static/js/2.e00d3201.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/roomsHMS/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d88fd978.js",
+    "static/js/2.e00d3201.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a8c872b3.chunk.js"
+  ]
+}
