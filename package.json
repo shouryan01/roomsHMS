@@ -2,6 +2,7 @@
   "name": "rooms",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://shouryan01.github.io/roomsHMS",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
@@ -15,6 +16,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
