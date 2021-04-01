@@ -229,10 +229,6 @@ function App() {
                   <option>5</option>
                 </Form.Control>
               </Form.Group>
-              <Form.Group controlId="exampleForm.ControlTextarea1">
-                <Form.Label>Example textarea</Form.Label>
-                <Form.Control as="textarea" rows={3} />
-              </Form.Group>
             </Form>
               <br /> Check In? <br />
               <DatePicker 
