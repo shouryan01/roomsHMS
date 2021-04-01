@@ -241,7 +241,7 @@ function App() {
                 value={checkOut}
               />
               <br /><br />
-              <Button variant="primary" onClick={closeModal} style={{float: 'right'}}>Close</Button>
+              <Button variant="primary" onClick={closeModal} style={{float: 'right'}}>Confirm</Button>
             </div>
           </Modal>
         </Container>
